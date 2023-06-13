@@ -3,7 +3,8 @@
   {
     "id": 1,
     "title": "Bandeja Tinto",
-    "price": 950,
+    "measure": "23cm x 16cm",
+    "packaging": "100 unds",
     "category": "Cocina",
     "images": [
       "https://i.postimg.cc/J7Hyvp3S/Bandeja-tinto.png"
@@ -13,12 +14,232 @@
   {
     "id": 2,
     "title": "Bandeja Mediana",
-    "price": 2.000,
+    "measure": "30cm x 22cm",
+    "packaging": "100 unds",
     "category": "Cocina",
     "images": [
       "https://i.postimg.cc/5yX8R14r/Bandeja-mediana.png"
     ]
-  }
+  },
 
+    {
+    "id": 3,
+    "title": "Bandeja Grande",
+    "measure": "34cm x 26cm",
+    "packaging": "50 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/bZKVN804"
+    ]
+  },
+
+      {
+    "id": 4,
+    "title": "Bandeja Servihogar Mediana",
+    "measure": "37,5cm x 27,5cm",
+    "packaging": "50 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/wyzWLVGV"
+    ]
+  },
+
+      {
+    "id": 5,
+    "title": "Bandeja Servihogar Grande",
+    "measure": "37,5cm x 35cm",
+    "packaging": "25 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/8fPtnCDf"
+    ]
+  },
+
+      {
+    "id": 6,
+    "title": "Bandeja Pasantera",
+    "measure": "32cm x 25cm",
+    "packaging": "60 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/23zc50vj"
+    ]
+  },
+
+      {
+    "id": 7,
+    "title": "Pasantera Ondulada",
+    "measure": "12cm x 12cm x 6cm",
+    "packaging": "120 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/tZzB560H"
+    ]
+  },
+
+      {
+    "id": 8,
+    "title": "Botilo N° 1 ",
+    "measure": "8cm x 17cm",
+    "packaging": "60 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/tYc22yc7"
+    ]
+  },
+
+        {
+    "id": 9,
+    "title": "Botilo Orión",
+    "measure": "8cm x 20cm",
+    "packaging": "60 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/1fXvG4JL"
+    ]
+  },
+
+        {
+    "id": 10,
+    "title": "Botilo Pokemon",
+    "measure": "8cm x 20cm",
+    "packaging": "60 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/G4szfV0K"
+    ]
+  },
+
+        {
+    "id": 11,
+    "title": "Botilo Line",
+    "measure": "8cm x 25cm",
+    "packaging": "60 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/t1QDGkpj"
+    ]
+  },
+
+        {
+    "id": 12,
+    "title": "Botilo Fénix",
+    "measure": "8cm x 25cm",
+    "packaging": "60 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/CzhWWFJN"
+    ]
+  },
+
+        {
+    "id": 13,
+    "title": "Botilo Perseo",
+    "measure": "8cm x 24cm",
+    "packaging": "60 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/640frxv6"
+    ]
+  },
+
+        {
+    "id": 14,
+    "title": "Botilo Lisa",
+    "measure": "6cm x 23cm",
+    "packaging": "60 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/JDCFKmGj"
+    ]
+  },
+
+        {
+    "id": 15,
+    "title": "Botilo Balón",
+    "measure": "7cm x 24cm",
+    "packaging": "60 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/fVFptYs2"
+    ]
+  },
+
+        {
+    "id": 16,
+    "title": "Botilo Premium",
+    "measure": "7cm x 24cm",
+    "packaging": "60 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/tnXMQ5dT"
+    ]
+  },
+
+        {
+    "id": 17,
+    "title": "Botilo Plutón",
+    "measure": "7cm x 24cm",
+    "packaging": "60 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/PCLFjNDm"
+    ]
+  },
+
+        {
+    "id": 18,
+    "title": "Botilo Garrafa",
+    "measure": "6cm x 25cm",
+    "packaging": "36 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/0bVLvLBq"
+    ]
+  },
+
+        {
+    "id": 19,
+    "title": "Colador N° 13",
+    "measure": "13cm x 24cm",
+    "packaging": "50 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/VJ52kDx0"
+    ]
+  },
+
+          {
+    "id": 20,
+    "title": "Colador N° 17",
+    "measure": "17cm x 29cm",
+    "packaging": "50 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/yJZ5FWYV"
+    ]
+  },
+
+          {
+    "id": 21,
+    "title": "Colador N° 21",
+    "measure": "21cm x 34cm",
+    "packaging": "50 unds",
+    "category": "Cocina",
+    "images": [
+      "https://postimg.cc/mhRqHLxs"
+    ]
+  },
+
+          {
+    "id": 22,
+    "title": "Colador Taza",
+    "measure": "15cm x 27cm",
+    "packaging": "50 unds",
+    "category": "Cocina",
+    "images": [
+      "https://i.postimg.cc/hP5NWDFZ/colador-taza.png"
+    ]
+  }
 ]
 }
