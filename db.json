@@ -614,6 +614,49 @@
     "images": [
       "https://i.postimg.cc/zDQkMX32/55.png"
     ]
+  },
+
+  {
+    "id": 57,
+    "title": "Kit Cuadrado x2",
+    "measure": "Pequeño: 10cm x 10cm x 7,5cm Grande: 14,5cm x 14,5cm x 11cm",
+    "packaging": "36 unds",
+    "category": "Cocina",
+    "images": [
+      "https://i.postimg.cc/J4BQWVkr/56.png"
+    ]
+  },
+
+  {
+    "id": 58,
+    "title": "Kit Cuadrado x3",
+    "measure": "Pequeño: 13cm x 13cm x 5cm Mediano: 14,4cm x 14,5 x 6cm Grande: 17cm x 17cm x 8cm",
+    "packaging": "36 unds",
+    "category": "Cocina",
+    "images": [
+      "  https://i.postimg.cc/DwkPvjrq/57.png"
+    ]
+  },
+
+  {
+    "id": 59,
+    "title": "Kit x3",
+    "measure": "Pequeño: 10cm x 10cm Mediano: 14cm x 11 Grande: 18cm x 15",
+    "packaging": "50 unds",
+    "category": "Cocina",
+    "images": [
+      "https://i.postimg.cc/cLRMrRhP/58.png"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Recipiente x3",
+    "measure": "12cm x 11cm",
+    "packaging": "30 unds",
+    "category": "Cocina",
+    "images": [
+      "https://i.postimg.cc/ZqJP3WDn/59.png"
+    ]
   }
 ]
 }
